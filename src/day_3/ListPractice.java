@@ -9,5 +9,6 @@ public class ListPractice {
         ArrayList<String> students=new ArrayList<>();
         students.addAll(Arrays.asList("Feruza","Nazli","Gulistan"));
         //printing out
+        //he is saying bla bla bla
     }
 }
