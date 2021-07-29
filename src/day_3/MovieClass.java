@@ -7,4 +7,5 @@ public class MovieClass {
     //to continue watch
 
     //Added some awesome functionalities into movie class
+    //done with tc100
 }
