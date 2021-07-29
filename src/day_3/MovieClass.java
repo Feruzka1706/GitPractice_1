@@ -6,5 +6,6 @@ public class MovieClass {
     //they have decided
     //to continue watch
 
-    //This is my awesome stuff from the master
+    //Added some awesome functionalities into movie class
+    //done with tc100
 }
