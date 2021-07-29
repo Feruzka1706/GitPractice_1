@@ -10,5 +10,6 @@ public class Car {
 
         cars.addAll(Arrays.asList("Tesla","Honda"));
         //some more comments we are adding
+        //stucking with commits
     }
 }
