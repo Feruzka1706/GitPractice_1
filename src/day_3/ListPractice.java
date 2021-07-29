@@ -8,5 +8,6 @@ public class ListPractice {
         //we are still practicing github stuff
         ArrayList<String> students=new ArrayList<>();
         students.addAll(Arrays.asList("Feruza","Nazli","Gulistan"));
+        //printing out
     }
 }
