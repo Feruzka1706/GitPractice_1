@@ -1,5 +1,8 @@
 package day_3;
 
 public class MovieClass {
-    //the spouse came in and watched movie until 20 mins
+
+    //after friendly some discussion
+    //they have decided
+    //to continue watch
 }
