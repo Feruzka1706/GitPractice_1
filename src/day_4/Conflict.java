@@ -12,6 +12,11 @@ public class Conflict {
 
     //This is collection branch content
 
+    //THIS IS THE CUSTOM OUTPUT FROM
+    //MY RESOLVING MERGE CONFLICT!!!
+
     //This is the change collection2 branch does not know about
+
+    //MORE WORK ON COLLECTION2
 
 }
