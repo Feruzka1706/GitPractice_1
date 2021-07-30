@@ -12,4 +12,6 @@ public class Conflict {
 
     //This is collection branch content
 
+    //This is the change collection2 branch does not know about
+
 }
