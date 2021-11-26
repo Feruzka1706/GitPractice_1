@@ -8,6 +8,9 @@ public class One_Class {
      * Local Development
      *
      * 1. Open new file
+     *
+     * Padariga ming la'nat bu gitni
+     *
      */
 
 }
